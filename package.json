@@ -1,0 +1,16 @@
+{
+  "name": "nodedocker",
+  "version": "1.0.0",
+  "description": "test project for testing node server in docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeevan wijerathna",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.2",
+    "express": "^4.16.3"
+  }
+}
